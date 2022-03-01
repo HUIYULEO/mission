@@ -1,0 +1,11 @@
+Program structure
+mission1 is some simple step about how to control the robot
+mission2 is about how to use the camera to recongize the AR code
+mission3,4 is free
+
+plan:
+1. finish the mission1 to got the first 5 points
+2. move into the middle part as second part
+3. mission 3/4 is the final part about the game.
+
+record all the data in the txt then send it to robot line by line
